@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/FFDT-gh-pages/static/css/main.a4e3891c.css",
-    "main.js": "/FFDT-gh-pages/static/js/main.7737136e.js",
+    "main.js": "/FFDT-gh-pages/static/js/main.6d0992ec.js",
     "static/js/787.1d1953fa.chunk.js": "/FFDT-gh-pages/static/js/787.1d1953fa.chunk.js",
     "index.html": "/FFDT-gh-pages/index.html",
     "main.a4e3891c.css.map": "/FFDT-gh-pages/static/css/main.a4e3891c.css.map",
-    "main.7737136e.js.map": "/FFDT-gh-pages/static/js/main.7737136e.js.map",
+    "main.6d0992ec.js.map": "/FFDT-gh-pages/static/js/main.6d0992ec.js.map",
     "787.1d1953fa.chunk.js.map": "/FFDT-gh-pages/static/js/787.1d1953fa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a4e3891c.css",
-    "static/js/main.7737136e.js"
+    "static/js/main.6d0992ec.js"
   ]
 }
